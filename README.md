@@ -8,9 +8,9 @@
 
 **Step 2:** Choose the `District` from dropdown
 
-**Step 3:** Open the browser inspect tab
+**Step 3:** Open the `browser inspect window` 
 
-**Step 4:** Run the below code in the console tab. Make sure you have updated the API before running the below code in console.
+**Step 4:** Run the below code in the `console tab`. Make sure you have updated the API before running the below code in console.
 
 ````
 var i = 1;   
