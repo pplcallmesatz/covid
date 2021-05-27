@@ -1,13 +1,13 @@
 # Get the TamilNadu COVID Beds details from the [Tamil Nadu COVID Beds](https://tncovidbeds.tnega.org/)
 
 
-**Step 1: ** Go to the [https://tncovidbeds.tnega.org/](https://tncovidbeds.tnega.org/)
+**Step 1:** Go to the [https://tncovidbeds.tnega.org/](https://tncovidbeds.tnega.org/)
 
-**Step 2: ** Choose the >District from dropdown
+**Step 2:** Choose the >District from dropdown
 
-**Step 3: ** Open the browser inspect tab
+**Step 3:** Open the browser inspect tab
 
-**Step 4: ** Run the below code in the console tab
+**Step 4:** Run the below code in the console tab
 
 ````
 var i = 1;   
