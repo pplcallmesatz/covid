@@ -84,5 +84,5 @@ function SubForm(data, th){
 ### Useage
 This snippet is currently using in the below mentioned platforms
 
-[https://trichyfightscovid.in/](https://trichyfightscovid.in/)
+[https://trichyfightscovid.in/](https://trichyfightscovid.in/) (Only for getting hospital bed details)
 ![https://trichyfightscovid.in/](trichyfightscovid.png)
