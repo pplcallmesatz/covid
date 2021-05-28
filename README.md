@@ -41,7 +41,7 @@ function myLoop() {
      $("body").append(formHtml);
     var  da = $("#myData").serializeArray()
 
-    SubForm(da, $(thiss));  // Submit the form data
+    SubForm(da, thiss);  // Submit the form data
     $('#myData').remove();
     
     
