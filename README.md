@@ -73,3 +73,16 @@ function SubForm(data, th){
 ````
 ### Output
 ![https://tncovidbeds.tnega.org/](sheet.png)
+
+
+
+
+
+---
+
+
+### Useage
+This snippet is currently using in the below mentioned platforms
+
+[https://trichyfightscovid.in/](https://trichyfightscovid.in/)
+![https://trichyfightscovid.in/](trichyfightscovid.png)
