@@ -5,7 +5,7 @@
 
 
 **Step 1:** Go to the [https://tncovidbeds.tnega.org/](https://tncovidbeds.tnega.org/)
-![https://tncovidbeds.tnega.org/](bed.png)
+![https://tncovidbeds.tnega.org/](bed_.png)
 
 
 
