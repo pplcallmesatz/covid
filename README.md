@@ -5,6 +5,9 @@
 
 
 **Step 1:** Go to the [https://tncovidbeds.tnega.org/](https://tncovidbeds.tnega.org/)
+![https://tncovidbeds.tnega.org/](bed.png)
+
+
 
 **Step 2:** Choose the `District` from dropdown
 
@@ -13,6 +16,7 @@
 **Step 4:** Run the below code in the `console tab`. Make sure you have updated the API before running the below code in console.
 
 Below code is created for APISPreadSheet.
+![https://www.apispreadsheets.com/upload](spreadsheet.png)
 
 ````
 var i = 1;   
@@ -67,3 +71,4 @@ function SubForm(data, th){
 
 
 ````
+![https://tncovidbeds.tnega.org/](sheet.png)
