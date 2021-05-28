@@ -12,6 +12,8 @@
 
 **Step 4:** Run the below code in the `console tab`. Make sure you have updated the API before running the below code in console.
 
+Below code is created for APISPreadSheet.
+
 ````
 var i = 1;   
 var toLen = $('#bedTable #tableBody tr').length;
