@@ -1,7 +1,7 @@
 ### Get the TamilNadu COVID Beds details from the [Tamil Nadu COVID Beds](https://tncovidbeds.tnega.org/)
 
 
-
+---
 
 
 **Step 1:** Go to the [https://tncovidbeds.tnega.org/](https://tncovidbeds.tnega.org/)
